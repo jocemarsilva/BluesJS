@@ -1,2 +1,2 @@
-# RockJS
+# BluesJS
 Site da banda RockJS
